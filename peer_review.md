@@ -1,7 +1,7 @@
 # Peer Review - Midterm Part 2
 --  Reviewing a Peer's Midterm --
 
-**Author of THIS REVIEW:** Karli Dean
+**Author of THIS REVIEW:** Karli Dean\
 **Author of the ORIGINAL PROJECT:** [Nathan Sloss](https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/classification_NathanSloss.ipynb)
 **Date:** November 11, 2025
 
@@ -21,3 +21,4 @@ He only shows a grand comparison for the Pclass feature models. He mentions how 
 ## Section 4 - Reflection Quality
 His reflections seem bland and not as insightful. They do not seem to answer the questions that were outlined in the example/direction repo. Granted, that repo is just giving us suggestions to write\
 in our reflection, but going through them step by step does make for insightful reflections.
+
