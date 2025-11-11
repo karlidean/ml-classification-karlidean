@@ -82,3 +82,8 @@ uv run python --version
    1. Completed the `.head()` and `.isnull().sum()`
    2. Completed reflection 1.
    3. Add - Commit - Push
+5. Section 2: Data Learning and Cleaning
+   1. I evaluated boxplots to see each category's distribution and evaluated a pairplot of data features that were distributed in a way that could be of aid.
+      1. Anything that was not distributed or felt as if it doesn't matter was removed when doing feature engineering.
+   2. Data cleaning included filling null values with median (for numerical features) or the mode (for numerical representations of categorical data).
+   3. Feature engineering included removing features that were unhelpful and making my target (num column) a binary feature, making anything greater than 0 equal to 1, as that would mean the patient has heart disease, regardless of severity.
