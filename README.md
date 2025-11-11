@@ -1,6 +1,7 @@
 # Applied Machine Learning - CSIS 44670 - Northwestern Missouri State University
 A Midterm Repository by Karli Dean
 
+
 ## TL:DR - About the Project
 - This is a repo detailing my midterm project for CSIS 44670 at Northwestern Missouri State University
 - This is a graduate level course
@@ -41,6 +42,7 @@ uv run python --version
    2. Implemented this data using python in snippet 2 of the Jupyter Notebook
 6. Add - Commit - Push
 
+
 ## About the Dataset (in order of column)
 1. age - age in years
 2. sex - sex (1 = male; 0 = female)
@@ -68,3 +70,10 @@ uv run python --version
 14. num - diagnosis of heart disease (angiographic disease status) (TARGET)
     1.  Value 0: < 50% diameter narrowing
     2.  Value 1: > 50% diameter narrowing
+
+
+## Process 3: Working Through the Project
+1. Set up my project outline
+   1. Pushed to GitHub during the process
+2. Began working through each section to complete the computations.
+3. Add - Commit - Push
