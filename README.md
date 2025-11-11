@@ -78,3 +78,7 @@ uv run python --version
    1. Pushed to GitHub during the process
 2. Began working through each section to complete the computations.
 3. Add - Commit - Push
+4. Section 1: Loaded my imports and my dataset from the UCI Machine Learning Repository.
+   1. Completed the `.head()` and `.isnull().sum()`
+   2. Completed reflection 1.
+   3. Add - Commit - Push
