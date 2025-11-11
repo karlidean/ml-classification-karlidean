@@ -8,10 +8,11 @@ A Midterm Repository by Karli Dean
 - Data Used: UCI Heart Disease Data
   - Can be found in the `data` folder or at the link in the "About the Dataset" section.
 - This project has 4 main pieces
-  - Jupyter Notebook (main project)
-  - README.md (this file)
-  - Dataset (data folder)
-  - Peer Review (found at peer_review.md)
+  - [Jupyter Notebook](https://github.com/karlidean/ml-classification-karlidean/blob/main/notebooks/classification_karlidean.ipynb)
+  - [README.md](https://github.com/karlidean/ml-classification-karlidean/blob/main/README.md)
+    - This File!
+  - [Heart Disease Data Set](https://github.com/karlidean/ml-classification-karlidean/blob/main/data/raw/heart_disease.csv)
+  - [Peer Review](https://github.com/karlidean/ml-classification-karlidean/blob/main/peer_review.md)
 
 
 ## Process 1: Starting the Repository and Prepping my Machine
