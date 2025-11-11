@@ -38,3 +38,5 @@ uv run python --version
 4. Add - Commit - Push
 5. Added the dataset
    1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)
+   2. Implemented this data using python in snippet 2 of the Jupyter Notebook
+6. Add - Commit - Push
