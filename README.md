@@ -35,3 +35,6 @@ uv run python --version
 1. Customized `pyproject.toml` and `mkdocs.yml`
 2. Added project notebook in the `notebooks` folder
 3. Added `peer_review.md` file
+4. Add - Commit - Push
+5. Added the dataset
+   1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)
