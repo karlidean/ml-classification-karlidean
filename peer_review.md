@@ -12,7 +12,7 @@ Another way I got a little bit confused was when I was reading through feature s
 
 
 ## Section 2 - Feature Selection and Justification
-There was no justification for the features chosen. I don't know why the author thinks the ticket class and fare are different cases for this author.
+There was no justification for the features chosen. I don't know why the author thinks the ticket class and fare are different cases for this author. While going through the repo, though, these are good choices for the models, I believe.
 
 
 ## Section 3 - Model Performance and Comparisons
@@ -22,4 +22,5 @@ He only shows a grand comparison for the Pclass feature models. He mentions how 
 
 ## Section 4 - Reflection Quality
 His reflections seem bland and not as insightful. They do not seem to answer the questions that were outlined in the example/direction repo. Granted, that repo is just giving us suggestions to write\
-in our reflection, but going through them step by step does make for insightful reflections.
+in our reflection, but going through them step by step does make for insightful reflections.\
+The reflections are very short winded, leaving much to the imagination.
