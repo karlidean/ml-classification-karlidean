@@ -45,30 +45,30 @@ uv run python --version
 
 
 ## About the Dataset (in order of column)
-1. age - age in years
+1. **age - age in years**
 2. sex - sex (1 = male; 0 = female)
 3. cp - chest pain type
    1. Value 1: typical angina
    2. Value 2: atypycal angina
    3. Value 3: non-anginal pain
    4. Value 4: asymptomatic
-4. trestbps - resting blood pressure (in mm Hg on admission to the hospital)
-5. chol - serum cholesterol in mg/dl
+4. **trestbps - resting blood pressure (in mm Hg on admission to the hospital)**
+5. **chol - serum cholesterol in mg/dl**
 6. fbs - fasting blood sugar > 120 mg/dl (1 = true, 0 = false)
 7. restecg - resting electrocardiographic results
    1. Value 0: normal
    2. Value 1: Having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05mV)
    3. Value 2: showing probable or definite left ventricular hypertrophy by Este's criteria
-8. thalach - maximum heart rate achieved
+8. **thalach - maximum heart rate achieved**
 9. exang - exercised induced angina (1 = yes; 0 = no)
-10. oldpeak - ST depression induced by exercise relative to rest
+10. **oldpeak - ST depression induced by exercise relative to rest**
 11. slope - the slope of the peak exercise ST segment
     1.  Value 1: upsloping
     2.  Value 2: flat
     3.  Value 3: downsloping
 12. ca - number of major vessels (0-3) colored by flouroscopy
 13. thal - 3 = normal; 6 = fixed defect; 7 = reversable defect
-14. num - diagnosis of heart disease (angiographic disease status) (TARGET)
+14. **num - diagnosis of heart disease (angiographic disease status) (TARGET)**
     1.  Value 0: < 50% diameter narrowing
     2.  Value 1: > 50% diameter narrowing
 
@@ -78,12 +78,5 @@ uv run python --version
    1. Pushed to GitHub during the process
 2. Began working through each section to complete the computations.
 3. Add - Commit - Push
-4. Section 1: Loaded my imports and my dataset from the UCI Machine Learning Repository.
-   1. Completed the `.head()` and `.isnull().sum()`
-   2. Completed reflection 1.
-   3. Add - Commit - Push
-5. Section 2: Data Learning and Cleaning
-   1. I evaluated boxplots to see each category's distribution and evaluated a pairplot of data features that were distributed in a way that could be of aid.
-      1. Anything that was not distributed or felt as if it doesn't matter was removed when doing feature engineering.
-   2. Data cleaning included filling null values with median (for numerical features) or the mode (for numerical representations of categorical data).
-   3. Feature engineering included removing features that were unhelpful and making my target (num column) a binary feature, making anything greater than 0 equal to 1, as that would mean the patient has heart disease, regardless of severity.
+4. Completed each section and annotated the notebook, pushing after each step.
+   1. Edited README.md to bold the features I'd kept.
