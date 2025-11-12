@@ -80,3 +80,5 @@ uv run python --version
 3. Add - Commit - Push
 4. Completed each section and annotated the notebook, pushing after each step.
    1. Edited README.md to bold the features I'd kept.
+5. Completed peer review
+   1. Edited README.md to reflect
