@@ -13,6 +13,7 @@ A Midterm Repository by Karli Dean
     - This File!
   - [Heart Disease Data Set](https://github.com/karlidean/ml-classification-karlidean/blob/main/data/raw/heart_disease.csv)
   - [Peer Review](https://github.com/karlidean/ml-classification-karlidean/blob/main/peer_review.md)
+  - [Documentation for this Repo](https://karlidean.github.io/ml-classification-karlidean/)
 
 
 ## Process 1: Starting the Repository and Prepping my Machine
